@@ -62,7 +62,7 @@ python app.py
 4. Click **Start Debate**
 5. Optionally download the Debate as text file
 
-[YouTube - Debate Arena](https://youtu.be/iOjumLr2gWY)
+[YouTube - Debate Arena](https://youtu.be/iOjumLr2gWY)  
 [![Debeta Arena Video](https://img.youtube.com/vi/iOjumLr2gWY/0.jpg)](https://youtu.be/iOjumLr2gWY)
 
 ## Usage - Ollama Maker
@@ -75,7 +75,7 @@ python app.py
 6. Wait for the model to be created
 7. Run your new model: `ollama run my-assistant`
 
-[YouTube - Ollama Maker:](https://www.youtube.com/watch?v=WDtpR9dGEtg)
+[YouTube - Ollama Maker:](https://www.youtube.com/watch?v=WDtpR9dGEtg)  
 [![Ollama Maker video](https://img.youtube.com/vi/WDtpR9dGEtg/0.jpg)](https://www.youtube.com/watch?v=WDtpR9dGEtg)
 
 ## Settings Guide
