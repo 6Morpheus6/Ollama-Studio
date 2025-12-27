@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "3.7",
   title: "Ollama Model Creator",
-  description: "🦙 Create custom Ollama models with your own system prompts and parameters. Easy-to-use Gradio interface for building personalized AI models with temperature control and custom instructions.",
+  description: "🦙 Let 2 models debate about a topic you pick. Create custom Ollama models with your own system prompts and parameters and use them to debate ot publish on ollama.com Easy-to-use Gradio interface for building personalized AI models with temperature control and custom instructions.",
   icon: "icon.png",
   menu: async (kernel, info) => {
     let installed = info.exists("env")
